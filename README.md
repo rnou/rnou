@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋, I'm Renato Leite</h3>
+<h3 align="left">Hi 👋, I'm Renato Leite</h3>
 
 
 <h4 align="left">Languages and Tools:</h4>
@@ -34,3 +34,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rnou&show_icons=true&locale=en" alt="rnou" /></p>
+
+<a target="_blank" href="https://www.linkedin.com/in/renato-leite-bb8a97204/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="dangelrenato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
